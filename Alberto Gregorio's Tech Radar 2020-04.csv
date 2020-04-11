@@ -36,6 +36,7 @@ Dotnet Core,languages-and-frameworks,Adopt,TRUE,"This seems to be the best platf
 C#8.0,languages-and-frameworks,Adopt,TRUE,"Use version 8.0 everywhere possible. The benefits coming from Nullable Reference Types are too good to ignore."
 Python3,languages-and-frameworks,Adopt,TRUE,"Python 3 is the supported "
 Gatsby.js,languages-and-frameworks,Assess,TRUE,""
+Reactive Extensions (Rx),languages-and-frameworks,Assess,TRUE,"Use instead of promises or async-await when dealing with any kind of logic more complex than simple request-response."
 Dapper,languages-and-frameworks,Trial,TRUE,"Use micro-ORM like Dapper only for Queries, avoid its usage for complex Command scenarios"
 F#,languages-and-frameworks,Trial,TRUE,"Even though the syntax is elegant, most teams are still not prepared for a functional-first approach."
 GraphQL,languages-and-frameworks,Trial,TRUE,"Contrary to all the fuss, GraphQL still seems to be not-quite-there when it comes to .NET."
